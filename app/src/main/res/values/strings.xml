@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">StackOverflow</string>
+    <string name="score">голос</string>
+    <string name="answer">ответ</string>
+    <string name="no_internet_connection">Нет подключения к сети Интернет</string>
+    <string name="connection_timeout">Слишком долгое подключение к серверу</string>
+</resources>
